@@ -1,0 +1,116 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #085c73;
+}
+
+li {
+  float: left;
+  border-right:2px solid #0ed7ed;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 40px 40px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #17C6B1;
+}
+
+
+.onomoje{
+  display: block;
+  text-align: center;
+  font-size:xxx-large;
+  font-style: italic;
+  color:black;
+}
+
+.bratee{
+  display: block;
+  text-align: center;
+  font-size: xx-large ;
+  font-style: italic;
+  color: black;
+}
+
+
+
+#ČLANOVI
+.Ajmoo{
+  display:block;
+  text-align:center;
+}
+
+.link{
+  color:white
+}
+
+.senter{
+  display: block;
+  text-align: center;
+}
+
+.sredina{
+  display: block;
+  text-align: center;
+  font-size: xx-large ;
+  color: white;
+}
+
+
+.Tablica{
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px ;
+  color: white;
+  
+}
+
+
+.Fanmejl{
+  font-size: x-large;
+  color: black
+}
+
+.offical{
+  font-size:x-large;
+  color:black
+}
+
+.Ulaz{
+  font-size:xx-large;
+  color:red
+}
+
+
+p{
+  font-size: 20px;
+  color: black
+}
+
+p.red{
+  color:red
+}
+
+
+th.naslov{
+  font-size:x-large;
+  }
+
+.Tabela{
+  display:block;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:large;
+  background-color: white;
+}
